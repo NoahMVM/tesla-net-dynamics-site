@@ -59,7 +59,7 @@ const TeslaModels = () => {
                 <img 
                   src={model.image} 
                   alt={model.name}
-                  className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-700"
+                  className="w-full h-32 object-cover group-hover:scale-110 transition-transform duration-700"
                 />
                 <div className="absolute top-4 left-4">
                   <Badge className="bg-blue-600 text-white">{model.badge}</Badge>
