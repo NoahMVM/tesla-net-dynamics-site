@@ -8,28 +8,28 @@ const TeslaModels = () => {
     {
       name: "Model S",
       description: "Luxury performance sedan with cutting-edge technology",
-      image: "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
+      image: "/lovable-uploads/f1654f48-8860-43a6-bff4-576e548c29f2.png",
       features: ["Autopilot Enhancement", "Performance Boost", "Premium Connectivity"],
       badge: "Flagship"
     },
     {
       name: "Model 3",
       description: "The world's best-selling electric vehicle",
-      image: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=800&q=80",
+      image: "/lovable-uploads/a666ad1f-b3bf-4cbe-86af-354b3c09c754.png",
       features: ["FSD Capability", "Track Mode", "Entertainment Package"],
       badge: "Popular"
     },
     {
       name: "Model X",
       description: "Premium SUV with falcon wing doors",
-      image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80",
+      image: "/lovable-uploads/378d0852-9bb0-4222-b916-be1b53955d49.png",
       features: ["Towing Package", "Off-Road Assist", "Bioweapon Defense"],
       badge: "SUV"
     },
     {
       name: "Model Y",
       description: "Compact SUV with maximized efficiency",
-      image: "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?auto=format&fit=crop&w=800&q=80",
+      image: "/lovable-uploads/c7f8f084-96f3-429e-af90-49ab4416b013.png",
       features: ["Acceleration Boost", "Cold Weather Package", "Enhanced Autopilot"],
       badge: "Versatile"
     }
